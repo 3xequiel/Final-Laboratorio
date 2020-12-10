@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProducto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Producto>
+    <Nombre>leche</Nombre>
+    <Precio>50</Precio>
+    <Stock>0</Stock>
+    <Tipo>fz</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>yogurt</Nombre>
+    <Precio>40</Precio>
+    <Stock>20</Stock>
+    <Tipo>lacteo</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>arroz</Nombre>
+    <Precio>40</Precio>
+    <Stock>2</Stock>
+    <Tipo>jaja</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>galletas oreo</Nombre>
+    <Precio>55</Precio>
+    <Stock>26</Stock>
+    <Tipo>golosinas</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>lavandina</Nombre>
+    <Precio>90</Precio>
+    <Stock>6</Stock>
+    <Tipo>productos limpieza</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>heladera</Nombre>
+    <Precio>60000</Precio>
+    <Stock>5</Stock>
+    <Tipo>electrodomesticos</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>costillas de cerdo</Nombre>
+    <Precio>500</Precio>
+    <Stock>10</Stock>
+    <Tipo>carniceria</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>aceite de girasol</Nombre>
+    <Precio>90</Precio>
+    <Stock>10</Stock>
+    <Tipo>alimentos</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>costillas de cerdo</Nombre>
+    <Precio>500</Precio>
+    <Stock>10</Stock>
+    <Tipo>carniceria</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>leche</Nombre>
+    <Precio>69</Precio>
+    <Stock>19</Stock>
+    <Tipo>lacteo</Tipo>
+  </Producto>
+  <Producto>
+    <Nombre>leche</Nombre>
+    <Precio>69</Precio>
+    <Stock>19</Stock>
+    <Tipo>lacteo</Tipo>
+  </Producto>
+</ArrayOfProducto>

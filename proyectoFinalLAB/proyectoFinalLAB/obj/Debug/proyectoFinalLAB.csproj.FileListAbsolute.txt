@@ -1,0 +1,10 @@
+c:\users\windows10\documents\visual studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\bin\Debug\proyectoFinalLAB.exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\bin\Debug\proyectoFinalLAB.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\bin\Debug\proyectoFinalLAB.pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\obj\Debug\proyectoFinalLAB.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\obj\Debug\proyectoFinalLAB.Form1.resources
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\obj\Debug\proyectoFinalLAB.Properties.Resources.resources
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\obj\Debug\proyectoFinalLAB.csproj.GenerateResource.Cache
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\obj\Debug\proyectoFinalLAB.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\obj\Debug\proyectoFinalLAB.pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\proyectoFinalLAB\proyectoFinalLAB\obj\Debug\proyectoFinalLAB.Form2.resources
